@@ -5,3 +5,5 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 The branch management.
 Fix the bugs.
+use bash to edit the content.
+
